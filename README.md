@@ -1,5 +1,5 @@
 ### Hi there 👋
-I started writing code with Python in early 2020 and ı continue to work on developing myself in the front end and I share what I have done in this process here in 2021. 
+I started writing code with Python in early 2020 and ı continue to work on improving myself in the front end and I share what I have done in this process here in 2021. 
 
 #### About Me
 
