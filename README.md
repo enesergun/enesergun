@@ -18,9 +18,7 @@ I’m currently studying on Math Dept. Hacettepe University. I started writing c
  ## Technologies I Use
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> 
  
- 
-## Current Works
- * I'm currently working on 🔭[Patika.dev front-end course](https://app.patika.dev/egitimler/frontend-web-development-patikasi) and working up on polishing my skills 🌱 in **React**.
+
   <p align="center">
    <img src = 'https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif' alt = 'Cat Coding'  />
   </p>
