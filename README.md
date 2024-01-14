@@ -7,7 +7,6 @@ Frontend Developer
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [enesergun1515@gmail.com](mailto:enesergun1515@gmail.com)
 * 🚀  I'm currently working on [Taze](http://https://tazebt.com/)
-* 🧠  I'm learning React Navite and Django & Node.js
 
 <a href="https://www.github.com/enesergun" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/enesergun?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a><a href="https://www.twitter.com/eneserrgun" target="_blank" rel="noreferrer"><img
